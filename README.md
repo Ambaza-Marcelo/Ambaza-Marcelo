@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/marcellin_dev" target="blank"><img src="https://img.shields.io/twitter/follow/marcellin_dev?logo=twitter&style=for-the-badge" alt="marcellin_dev" /></a> </p>
 
-- 🔭 I’m currently working on **MSSMS**
+- 🔭 I’m currently working on **AKIWACU ERP**
 
 - 🌱 I’m currently learning **flutter,python**
 
